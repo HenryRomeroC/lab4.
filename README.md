@@ -40,11 +40,9 @@ Procedimiento
 
 *Simulacion En Tinckercad* 
 
-![WhatsApp Image 2022-12-23 at 9 57 42 AM](https://user-images.githubusercontent.com/116821721/209357479-8e13bfd9-bd62-40bd-87f8-0453a4976a80.jpeg)
-
 Mediciones del circuito
 
-![WhatsApp Image 2022-12-23 at 10 01 14 AM](https://user-images.githubusercontent.com/116821721/209357527-6abf2969-8d0e-4a55-96e0-427d76c74ffb.jpeg)
+![image](https://user-images.githubusercontent.com/116819100/209359878-250d6f71-7aa8-4855-b6ce-85d69550461a.png)
 
 Mediciones en el circuito cuando el voltaje de V2 es 0
 
