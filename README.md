@@ -70,7 +70,8 @@ Tabla de Resultados
 
 **1.7 CONCLUSIONES**
 
-En conclusión así como en el desarrollo del método de mallas se puede dislimbrar que los procesos para analizar los circuitos por nodos determinan de manera exacta las corrientes y voltajes que atraviezan este cumpliendo las leyes expuestas por Kirchoff, por medio de la practica se logro comprobar la utilidad y veracidad de estas leyes en su totalidad conforme a lo estudiado de manera teorica en clase.
+En conclucion el metodo de superposicion para el análisis de los circuitos es comprobable por medio de esta practica donde la precencia de dos fuentes de poder, así comprobando que el voltaje o corriente dentro de este tipo de circuitos se puede encontrar aislando una de las corrientes y calculando los componentes individualmente con la otra fuente igualada a cero.
+
 
 -------------------------------------------------------
 
