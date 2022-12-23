@@ -20,21 +20,25 @@ Medir tanto voltaje como corriente en los casos necesarios y comparar los result
 
 MATERIALES Y EQUIPOS
 
-![image](https://user-images.githubusercontent.com/116819100/206618141-e77ae16d-3eef-450e-8597-b1ea09aa6654.png)
+
+
+![image](https://user-images.githubusercontent.com/116819100/209359336-9fc77826-e142-4dbf-8b7e-7c5cc4b6099b.png)
+
+
+
+
+
+
 
 Procedimiento
 
-![image](https://user-images.githubusercontent.com/116819100/206618414-32f7db89-557f-47f2-9cdc-29c3e9855ad3.png)
+![image](https://user-images.githubusercontent.com/116819100/209359466-41dabc26-1df2-45c0-8682-39436cf5952b.png)
 
 
-Representacion de CORRIENTES
 
-![image](https://user-images.githubusercontent.com/116819100/206623099-f08c4937-a5cc-4a2d-afbe-c64c4132e3ee.png)
 
 
 *Simulacion En Tinckercad* 
-
-![image](https://user-images.githubusercontent.com/116819100/206619425-d6a2cd3d-b287-45f4-9d42-08b991c834c5.png)
 
 ![WhatsApp Image 2022-12-23 at 9 57 42 AM](https://user-images.githubusercontent.com/116821721/209357479-8e13bfd9-bd62-40bd-87f8-0453a4976a80.jpeg)
 
@@ -50,12 +54,41 @@ Mediciones del circuito cuando el voltaje de V1 es 0
 
 ![WhatsApp Image 2022-12-23 at 10 05 00 AM](https://user-images.githubusercontent.com/116821721/209357626-316bc135-6af7-4c3f-9d7e-f2cc3270b6c0.jpeg)
 
-*Simulacion En Proteus* 
+1.4 EXPLICACIÓN DE PROCEDIMIENTO
 
-![image](https://user-images.githubusercontent.com/116819100/206617435-d80dfc43-7676-46ed-8cf8-ac93f432fbdf.png)
+Arme el circuito que se muestra en la figura 4.1.
 
-Tabla de Resultados 
-![image](https://user-images.githubusercontent.com/116819100/206728274-18ee1aad-6b98-4c1a-8d6b-2c802fe1b508.png)
+Con las dos fuentes conectadas, mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+Haga “cero” la fuente de voltaje de 12 V (V2) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+Haga “cero” la fuente de voltaje de 20 V (V1) y mida el voltaje VA y la corriente IX, respetando tanto la polaridad del voltaje como el sentido de la corriente que se proporcionan. Anote el valor de las mediciones en la tabla 4.1 y 4.2 respectivamente.
+
+Verifique el cumplimiento del Teorema de Superposición y compare los resultados obtenidos prácticamente con los obtenidos analíticamente. Realice sus conclusiones
+
+1.5 RESPUESTA A INTERROGANTES Y CALCULO DEL ERROR
+
+Tabla de datos para VA
+
+Tabla 4.1. Medición de voltaje aplicando superposición.
+![image](https://user-images.githubusercontent.com/116819100/209359634-ca094d3b-ec3b-4be7-8c63-f4f0caa01f60.png)
+
+
+![image](https://user-images.githubusercontent.com/116819100/209359663-3ee3a6e5-9eaf-4154-966a-a2c76f19821e.png)
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 -------------------------------------------------------------------
 
